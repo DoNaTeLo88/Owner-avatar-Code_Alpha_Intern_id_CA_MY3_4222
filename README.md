@@ -56,8 +56,7 @@ The internship at Code Alpha focused on developing technical and analytical skil
 
 ### 3. Introduction to Phishing – Presentation
 
-- **Objective:** Raise awareness about phishing techniques and train on identifying malicious emails and websites.  
-- **Format:** PowerPoint presentation  
+- **Objective:** Raise awareness about phishing techniques and train on identifying malicious emails and websites.   
 - **Key Topics Covered:**
   - Types of phishing attacks  
   - Psychological triggers in phishing campaigns  
